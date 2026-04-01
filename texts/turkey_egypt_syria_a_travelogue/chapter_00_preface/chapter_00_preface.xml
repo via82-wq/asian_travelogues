@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+  <div type="chapter" n="1">
+      <chapter_title>Preface</chapter_title> <!--decided to deviate from TEI her-->e
+      
+      <head>
+          <lg>
+              <l>In the Name of God, the Compassionate, the Merciful With Praise and Prayers 1 </l>
+              <l>Although we did not reach the land of roses in the season of roses </l>
+              <l>We did not let the spectacle of autumn fall from our hand 2</l>
+          </lg>
+      </head>
+      <!--should I use <head> over <p>? Or can I use both?-->
+      
+      <p>
+          <s>The journey that I made to <placeName><settlement type="city">Constantinople</settlement></placeName>, and so on, in auspicious <date calendar="hijri" when="1309-09">Ramz¨ān, 1309 Hijrī </date>/<date calendar="gregorian" notBefore="--03-01" notAfter="--04-30" when="1892">[March/April] 1892</date> was purely a student’s journey, and because it was neither an extraordinary affair, nor was there much rareness in the happenings of the journey, I had absolutely no intention of writing a travelogue.</s>
+          <s> However, after I returned from there, the elders and friends whom I had occasion to meet all demanded a travelogue.</s>
+          <s> I thought that since the custom of travel and journey stopped in our community some time ago, and for this reason absolutely no acquaintance with the true circumstances of the Islamic regions is acquired, this demand by the people was not out of place.</s>
+          <s> I was reminded of my own situation when, before the journey, any time I met a traveler from <placeName><settlement type="city">Constantinople</settlement></placeName>, and so on, I would spend hours asking about the circumstances of that place.[3] </s>
+      </p>
+          
+      <p>
+          <s>These were the reasons that persuaded me to give order to these scattered pages.</s> 
+          <s>Otherwise, to record the circumstances of such a hasty and ordinary journey, and to give it the name <foreign xml:lang="fa">safarnāmah</foreign>  or <title level="m" xml:lang="ar">kitāb al-riḥlat</title> <!--Ibn Battuta's travelogue-->, 3 would not have been devoid of small wit.</s>
+          <s> The kind of information that is necessary and required in a <foreign xml:lang="fa">safarnāmah</foreign> , that is, the general circumstances of the region, the method of administration, the principles of the court, the particularities of business and commerce, and sketches of buildings; not even one of these is found in this <foreign xml:lang="fa">safarnāmah</foreign> .</s>
+          <s> Of course, there are a substantial number of incidents related to social life and intellectual scientific circumstances, although they too are not as detailed as they should be.</s><s> In sum, whoever desires to see the <title level="m" xml:lang="fa">Safarnāmah</title> as a <foreign xml:lang="fa">safarnāmah</foreign>  will not be able to derive full pleasure from this book.</s>
+          <s> Still, this potluck of whatever was at hand can be presented at the table setting of people who take pleasure in even the ordinary events of Islamic regions, for mā lā yudrak kulluh lā yutrak kulluh.</s> 4
+      </p>
+      
+      <p>
+          <s>Although I have not discussed the civilizational and regional circumstances of the <rs type="ethnic">Turks</rs> in this book, nor was a discussion of this kind appropriate with respect to my position and status, the degree of cultural refinement and propriety of the <rs type="ethnic">Turks</rs> that will be established in the hearts of readers will be different from that which is expressed by the general literature of <placeName><bloc type="continent">Europe</bloc></placeName>.</s>
+      </p>
+      
+      <p>
+          <s>The thoughts against <rs type="religious">Muslims</rs> that <placeName><bloc type="continent">Europe</bloc></placeName>formed in some age in the past were, for a time, expressed openly in such a way that the hue of religious prejudice was clear to see, and at that time this was an excellent means of general acceptance.</s> 
+          <s>But when the [4] power of religion declined in <placeName><bloc type="continent">Europe</bloc></placeName>, and religious anthems became entirely ineffectual, that policy took a turn.</s><s> Now it was not thought to be so beneficial to write such clearly prejudiced words about <rs type="religious">Muslims</rs>.</s> 
+          <s>Instead, the learned, scholarly practice was adopted that the flaws of Islamic governments, Islamic nations, and Islamic society be laid bare in historical ornament, and these have become so absorbed in the literature by means of common writings, stories, novels, and proverbs that they cannot be separated even by a chemical solution</s>
+      </p>
+      
+      <p>
+          <s>Although this practice is employed with all Islamic nations, at this time our discussion lies with the <rs type="ethnic">Turks</rs> in particular.</s>
+          <s> Not having contemptuous thoughts about <rs type="ethnic">Turks</rs> after reading <ref type="ethnic">European</ref> literature is precisely like not feeling drowsy after taking a soporific drug.</s>
+      </p>
+      
+      <p>
+          <s>The circle of scholars in <placeName><bloc type="continent">Europe</bloc></placeName>is quite extensive, and for this reason there are people of every degree and class among them: prejudiced and good hearted, superficial and discerning.</s>
+          <s> But in discussion of the <rs type="ethnic">Turks</rs>, this difference of degrees collapses entirely, and the same sound issues from every instrument.</s>
+      </p>
+      
+      <p>
+          <s>For example, the straightforward and honest account of the truest of true <ref type="ethnic">European</ref> writers of today is that, in mentioning the <ref type="ethnic">Turkish</ref> government, he writes entirely straightforwardly of the heaviness of debt, the insufficiency of industry and technology, the absence of the expanse of education in the provincial districts, the dependency on <placeName><bloc type="continent">Europe</bloc></placeName>for weapons and armaments—all of this.</s>
+          <s> But he so avoids mentioning the reforms that have taken place of late that it is as if reform does not exist at all.</s>
+          <s> The administration of the treasury, the establishment of agricultural banks in all the provincial districts, [5] the progression of the number of rushdiyah schools from 96 to 405, the establishment of many large and great colleges, the extensiveness of the railway, the arrangements for discharging debt, the development of military power—he does not write about these events,* not even by mistake.5</s>
+      </p>
+      
+      <p>
+          <s>An extremely easy method of proving a nation or a person praiseworthy or contemptable is to paint a one-sided picture of its circumstances and happenings, and the just truth of the matter is that <placeName><bloc type="continent">Europe</bloc></placeName>has used this deceptive method more than all other nations in the world.</s>
+      </p>
+      
+      <p>
+          <s>No doubt, there are also beneficent people in <placeName><bloc type="continent">Europe</bloc></placeName>who have nothing to do with prejudice, but even their lack of prejudice is ineffective when confronted with the kind of thoughts among which they have been raised since childhood, the sources of information all around them, and the voices that enter their ears from all directions.</s>
+          <s> One gentleman, who is an extremely unprejudiced and learned person and whom I have the honor of serving, returned from a journey to <placeName><settlement type="city">Constantinople</settlement></placeName> and <placeName><country>Egypt</country></placeName>, and I asked in the course of conversation, “Did you also visit the <place type="mosque"><placeName>Azhar Congregational Mosque</placeName></place> in <placeName><settlement type="city">Cairo</settlement></placeName>?</s>
+          <s>”6 He said, “I was very keen to visit it, but my guide said that <rs type="religious">Christians</rs> were not permitted to go there;” although this fact is purely erroneous.</s>
+          <s> [6] I myself resided in the <place type="mosque"><placeName>Azhar Congregational Mosque</placeName></place> for more than one month, and my <rs type="religious">Christian</rs> friends used to come to meet me right in the masjid without any trouble.</s>
+          <s> But because in <placeName><bloc type="continent">Europe</bloc></placeName>the prejudice and narrow-mindedness of <rs type="religious">Muslims</rs> is very nearly axiomatic knowledge, how could that ṣāḥib have had any hesitation in believing the words of his guide?</s>
+      </p>
+      
+      <p>
+          <s>To crown all, if anyone says or writes something that deviates from the common thoroughfare, his voice is thought to be the voice of a parrot in the drum chamber of <placeName><bloc type="continent">Europe</bloc></placeName>.</s>
+          <s> An <rs type="ethnic">English</rs> princess, having lived in <placeName><settlement type="city">Constantinople</settlement></placeName> <date dur="P15Y" dur-max="P16Y">for fifteen or sixteen years</date>, wrote a book by the name of <title level="m">The Twelve-Year Governance of ‘Abd al-Ḥamīd the Second</title>.7</s> <!--Should I tag Abd al-Hamid's name with <persName>?-->
+          <s> Although to be taken as credible—the intellectual capability of the authoress, the experience of <date dur="P15Y" dur-max="P16Y">fifteen or sixteen years</date>, the authentic means of discovering information—all the attendant requisites were present; still, because it was not of one voice with <placeName><bloc type="continent">Europe</bloc></placeName>in speaking of the faults of the <rs type="ethnic">Turks</rs>, it was not able to obtain the status of reliability and trustworthiness.</s>
+          <s> We have heard educated people say of it, <q>“It would be no wonder if the <rs type="ethnic">Turks</rs> themselves wrote the book under the name of an assumed author, or if favors from the sulṭān compelled the British princess to write such a book!!"</q></s>
+          <s>But if the same book had been about the faults of the <rs type="ethnic">Turks</rs>, then (according to these people) every letter of it would have been absolute and certain.</s>
+          <s> Even the essays that <persName>Professor Vámbéry</persName> has written drawing from his scholarly investigations into the cultural refinement and propriety of the <rs type="ethnic">Turks</rs> remained ineffectual for the very reason that the aforementioned professor had acknowledged the present intellectual-scientific progress of the <rs type="ethnic">Turks</rs>8.</s>
+      </p>
+      
+      <p>
+          <s>Although this is the state of the common literature of <placeName><bloc type="continent">Europe</bloc></placeName>concerning the <rs type="ethnic">Turks</rs>, with respect to the occasion, we should [7] mention in particular the travelogues of <placeName><country>Turkey</country></placeName>, for it is from these very travelogues that the resources of <ref type="ethnic">European</ref> historical writings have also largely been taken.</s> 
+          <s>Although the travelogue is an interesting part of the historical tradition, it is as replete with erroneous suppositions as it is interesting.</s>
+      </p>
+      
+      <p>
+          <s>A major error that commonly befalls the writers of travelogues is establishing generalizations from particulars.</s>
+          <s> Human beings establish a general view of an entire nation from the character, habits, and ideas of the people whom they encounter on a journey, even though it is possible that these matters are exclusive to those few people alone.</s>
+          <s> Similarly, they desire to derive a general conclusion from every occurrence, and neither desire to spend time in search of the specific causes of each occurrence nor have occasion to do so.</s>
+      </p>
+      
+      <p>
+          <s>One major cause of error is that the person who travels to some country already has friendly or opposing ideas about it.</s>
+          <s> After arriving there, whatever he sees and hears at first is purely superficial, and because such cursory familiarity is not sufficient for the derivation of conclusions, and he cannot wait long to form conclusions, he therefore interposes conjectures with every incident.</s>
+          <s> While making such conjectures, the positive or negative notion that already existed in his heart continues to act in silence and the person is completely unaware.</s>
+          <s> Although erroneous supposition of this kind is connected with all the nations of the world, the people of <placeName><bloc type="continent">Europe</bloc></placeName>enjoy special superiority in it, the reason for which is that no other nation is [8] as impatient to derive conclusions as the <rs type="ethnic">Europeans</rs>.</s>
+          <s> It is the effect of this that when a common <ref type="ethnic">European</ref> traveler or politician happens to turn up in <placeName type="region">Hindustan</placeName>, on the basis of the experience of just a week or two, he publishes major articles in <ref type="ethnic">European</ref> newspapers and magazines claiming that it is as if all the secrets of the society and civilization of <placeName type="region">Hindustan</placeName> have been revealed to him.</s>
+          <!--Hindustan would be considered region at this point right?-->
+      </p>
+      
+      <p>
+          <s>Another major reason is that because the traveler is extremely eager to discover information, he desires to acquire some resource or means of information from every person he encounters.</s>
+          <s> In this generalizing, he does not care to discern if the person is trustworthy or untrustworthy, enlightened or prejudiced, or someone with an eye for finer points or who only sees the apparent, and even if he does desire to do so, he cannot do so successfully.</s>
+          <s> <rs type="ethnic">Europeans</rs> are even more incautious in this regard.</s>
+          <s> Most <ref type="ethnic">European</ref> tourists who travel to <placeName><settlement type="city">Constantinople</settlement></placeName> typically have occasion to stay in the hotels of <district><choice><orig>Bayoghlī</orig> <reg>[Beyoğlu]</reg></choice></district> and <district><choice><orig>Ghalatah</orig><reg> [Galata]</reg></choice></district>.9</s>
+          <s> Wherever they want to go, a <foreign>gāyad˙(guide)</foreign> <!--not sure what language to tag this -->is with them who not only takes them on a tour of the buildings and places, but also answers all the questions that they ask from time to time as needed.10 </s>
+          <s>These guides are generally <rs type="religious">Christian</rs>, and their rate is a rupee or two per day</s>
+          <s> Everyone can estimate for oneself what kind of information these guides can have.</s>
+      </p>
+      
+      <p>
+          <s><persName>Fāṭimah Khānam</persName>* has written in the preface of her book, <q>“When the esteemed <ref type="ethnic">European</ref> women [9] whom I had occasion to meet would recount something relating to <ref type="ethnic">Turkish</ref> women as fact, I used to suspect that they were discussing some other nation or they were stories in the style of a novel".</q></s>
+          <s><persName>Fatimah Khānam</persName> has also given the opinion that, <q>“It is not the fault of these poor people.They are compelled to believe whatever guides say to tourists."</q></s>
+          <s> A guide also deceived our friend, who was deprived of a visit to the <place type="mosque"><placeName>Azhar Congregational Mosque</placeName></place>.</s>
+          <s> In sum, it was inevitable that my travelogue would be different from <ref type="ethnic">European</ref> writings and travelogues, although it would not have been befitting to go into such excessive detail in describing the reasons for this difference that it became its own separate subject or section.</s>
+          <s> It is not at all necessary to express here the impression that the journey to <placeName><country>Turkey</country></placeName> has left on my heart.</s>
+          <s> This can be learned by reading this <foreign xml:lang="fa">safarnāmah</foreign>.</s>
+          <s> Of course, it is necessary to say at the very least that if the status of the sultanate is set aside, then the condition of <rs type="religious">Muslims</rs> there, too, is not worthy of much joy or satisfaction.</s>
+          <s> Rather, one should say that in a great many matters, it is very close to that of <rs type="religious" ana="ethnic">Hindustani Muslims</rs>.</s>
+          <s> They have nothing to do with industry.</s>
+          <s> They have very little share in commercial trade.</s>
+          <s> Even the ordinary shopkeepers are <rs type="religious">Jewish</rs> or <rs type="religious">Christian</rs>.</s>
+          <s> The old education is extremely defective [10] and continues to become more and more so.</s>
+          <s> The complaint concerning new education that is made here is also made there.</s>
+          <s> There is still enmity between the old culture and the new culture, and no composite temperament has been produced by mixing the two.</s>
+          <s> Those of the old way of thinking are still unaware of the pace of the times.</s>
+          <s> Those of the new taste do not do as much as they say.</s>
+          <s> Instead of courage, dignity, passion, resolve, and fortitude, something like despondency has spread over the entire nation (predominantly).</s>
+          <s> People are content with whatever circumstance they find themselves in.</s>
+          <s> The present situation is, la‘allallāha yuḥdis˙u ba‘da żālika amran.11</s>
+      </p>
+      
+      <trailer>
+          <s>It Ended Well.</s>
+      </trailer>
+  </div>
+</body>
