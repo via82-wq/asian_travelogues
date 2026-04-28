@@ -22,9 +22,9 @@
         <body>
             <header>
                 <nav>
-                    <a href="splash_page.xhtml">Home</a>
-                    <a href="about.xhtml">About</a>
-                    <a href="shah.xhtml">Reading View</a>
+                    <a href="index.html">Home</a>
+                    <a href="about.html">About</a>
+                    <a href="shah.html">Reading View</a>
                 </nav>
                 <div class="legend">
                     <h3>Key</h3>
