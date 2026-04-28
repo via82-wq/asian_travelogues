@@ -1258,14 +1258,14 @@ sleep.
     <title>
 CHAPTER    II. 
 
-RUSSIA  ;  U  DAYS. 
+      <loc>type="country"'>RUSSIA</loc>  ;  U  DAYS. 
     </title>
     
-EDNESDAY,  16th  (Uth  May). -^AiriYed  at 
-Hajji-Tarkhan.  At  dawn  I  rose  and  looked 
+    <date>WEDNESDAY,  16th  (Uth  May).</date> -^AiriYed  at 
+    <loc type="city"> Hajji-Tarkhan.</loc>  At  dawn  I  rose  and  looked 
 around.  Thanks  be  to  God,  we  have  escaped 
-from  the  high  sea,  and  have  entered  a  large 
-river  named  the  Volga,  which  has  a  great  charm.  This 
+from  the  high  sea, <place type="river" >and  have  entered  a  large 
+  river  named  the  Volga,  which  has  a  great  charm.</place>   This 
 stream  is  very  wide ;  so  much  so,  that  the  one  branch  of 
 it  which  we  were  navigating  is  at  least  a  thousand  ells 
 (about  1200  yards)  across,  and  an  ordinary  musket-ball 
@@ -1275,7 +1275,7 @@ waves  like  those  of  the  sea.  The  banks  are  everywhere
 clothed  with  green  forest-trees,  common  willows  and 
 Egyptian  willows ;  the  land  is  all  grass  and  pastm-age. 
 For  the  most  part  these  regions  are  inhabited  by  tribes 
-of  <ethn type="tribe"></ethn>pagan  Kalmuks,  who  pitch  their  felt  tents  by  the  side 
+of  <ethn type="tribe">pagan  Kalmuks</ethn>,  who  pitch  their  felt  tents  by  the  side 
 of  the  streams  and  rear  vast  herds  of  cattle,  horses, 
 mares,  oxen,  sheep,  &amp;c.  We  saw  also  some  large  villages, 
 ,Russian  villages,  pertaifiing  to  the  district  of  Hajji- 
@@ -1291,7 +1291,7 @@ cried  out  hurrah !  They  did  not  appear  to  have  any
 gardens  or  sown  fields,  excepting  in  one  instance  where 
 we  saw  a  very  large  mansion  and  an  extensive  garden  of 
 trees  in  a  village  at  a  distance,  belonging  to  the  tribe  of 
-Sapogenikoff.  They  had  shot  down  a  good  quantit}^  of 
+    <ethn type="tribe"> Sapogenikoff</ethn>.  They  had  shot  down  a  good  quantit}^  of 
 dead  fishes  into  their  vessels,  and  had  made  the  banks 
 of  the  river  stink.  Such  fishes  as  they  had  not  been 
 able  to  salt  and  preserve,  and  which  had  consequently 
@@ -1301,8 +1301,8 @@ such  as  magpies,  crows,  and  cormorants  (?  lit.,  great
 piscivorous  starlings),  flying  in  the  air;  we  shot  one  of 
 each  of  the  latter  as  they  flew  past.  AVe  saw  two  small 
 vessels  with  steam  and  sails,  laden  with  merchandize. 
-We  thus  continued  our  course,  until  about  mid-day  the 
-mass  of  Hajji-Tarkhan  began  to  appear,  the  first  building 
+<loc type="city"> We  thus  continued  our  course,  until  about  mid-day  the 
+  mass  of  Hajji-Tarkhan  began  to  appear,  <observation type="cultural">the  first  building 
 seen  being  the  large  chiu-ch  of  the  city,  which  is  very 
 lofty  and  majestic.  The  city  is  like  an  island  encom- 
 passed by  two  or  three  branches  of  the  river.  One  large 
@@ -1311,7 +1311,7 @@ through  it,  bemg  spanned  by  many  bridges,  and  its  banks
 occupied  by  streets  and  houses.  It  has  numerous 
 mosques,  the  greater  part  of  which  belong  to  the  Tatars, 
 one  very  fine  one  belonging  to  the  Muslims  of  Iran 
-(Persia).  Well,  we  arrived  at  the  town.  Skirting  the 
+(Persia). </observation> </loc>Well,  we  arrived  at  the  town.  Skirting  the 
 town  were  all  kinds  of  craft,  and  wmdmills  in  abundance 
 were  seen.     Astonishing  multitudes  of  men  and  women 
 <page>25</page>
@@ -1324,11 +1324,11 @@ aj^^along  the  course  of  the  river,  until  we  reached  the
 landing-place  and  our  vessel  stopped.  It  then  wanted 
 four  hours  and  a  half  to  sunset. 
 
-This  da}^,  early  in  the  morning,  Mirza  Malkam  Khan, 
+This  da}^,  early  in  the  morning, <gathering type="political"> Mirza  Malkam  Khan, 
 and  Nanman  Khan,  with  MTrza  Asadu-'l-'lah  Khan,  our 
 Consul  at  Tiflis,  and  Mirza  Mika'il,  brother  of  Mirza 
 Malkam  Khan,  had  come  down  from  Hajji-Tarkhan  and 
-joined  our  part}^  on  board  ship. 
+joined  our  part}^  on  board  ship. </gathering>
 
 Descending  from  the  vessel,  we  landed.  The  instant 
 we  put  our  foot  on  shore,  the  whole  of  the  men  and 
@@ -1340,13 +1340,13 @@ as  the  space  would  hold.  They  had  raised  a  triumphal
 arch  of  great  altitude  and  of  imposing  appearance.  A 
 triumphal  arch  is  customary  to  be  erected  on  the  arrival 
 of  sovereigns  in  a  town.  From  the  landing  to  the 
-triumphal  arch  the  passage  was  carpeted  over.  In  con- 
+triumphal  arch  the  passage  was  carpeted  over. <observation type="cultural"> In  con- 
 formity with  a  Russian  custom,  obseiTed  by  them  when 
 the  Emperor  or  a  King,  but  no  one  else,  arrives  in  a  town, 
 the  mayor  brought  forward'bread  and  salt.  On  the  salt- 
 cellar of  gold,  and  on  the  gilt  silver  salver,  on  which  the 
 salt  and  bread  were  presented,  the  date  of  our  arrival  at 
-Hajji-Tarkhaji  had  been  inscribed.  An  open  carriage 
+Hajji-Tarkhaji  had  been  inscribed. </observation> An  open  carriage 
 harnessed  with  four  handsome  horses,  and  the  coachman, 
 <page>26</page>
 Russian  fashion,  standing  with  the  reins  in  his  hand,  was 
@@ -1365,7 +1365,7 @@ the  most  desirable  manner.  I  dismounted  and  walked
 down  their  line.  They  saluted  me  with  military  honours, 
 and  shouted  hurrahs.     We  then  entered  the  house. 
 
-The  edifice  of  the  Government  House  is  a  very  im- 
+<observation type="cultural"> The  edifice  of  the  Government  House  is  a  very  im- 
 posing and  spacious  structure,  full  of  inhabited  apart- 
 ments. By  the  sides  of  the  staircase  by  which  one 
 enters  the  house,  and  which  leads  to  a  great  hall,  nume- 
@@ -1394,11 +1394,11 @@ point  there  were  a  few  wooden  steps,  with  a  kind  of  trap-
 door at  the  top  ;  and  whenever  it  is  desired  that  hot  air 
 enter  the  bath-room,  they  open  it.  There  were  many 
 taj3S  for  hot,  cold,  and  tepid  water,  all  round  the  room. 
-
-When  I  quitted  the  bath,  M.  Dubeski,  the  Austrian 
-Envo}^  and  Mr.  Thomson,  Secretary  of  the  English 
-Legation,  had  an  audience  of  leave,  being  introduced  by 
-the  Grand- Vazir ;  they  precede  us  to  Moscow.  After 
+</observation>
+When  I  quitted  the  bath, <people role="diplomatic">M.  Dubeski,  the  Austrian 
+Envoy  and  Mr.  Thomson,  Secretary  of  the  English 
+Legation, </people>  had  an  audience  of  leave,  being  introduced  by 
+    the  Grand- Vazir ;  they  precede  us  to <loc type="city"> Moscow</loc>. <observation type1="cultural" type2="industrial" > After 
 them,  the  Governor  of  HajjI-Tarkhan,  Prince  Menschi- 
 koff.  Colonel  Bazak,  and  M.  Grebel,  came  and  enquired 
 whether  we  would  feel  an  inclination  to  witness  the 
@@ -1416,9 +1416,9 @@ than  their  officer  feisjned  that  fire  had  broken  out  in  a
 building  that  stood  on  one  side  of  the  square.  Instantly 
 did  they  direct  the  whole  of  their  engines  on  that  build- 
 ing, and  incessantly^  did  they  discharge  water  upon  it. 
-They  performed  a  ver}"  fine  exercise. 
+They  performed  a  ver}"  fine  exercise. ></observation>
 
-In  the  evening  there  was  an  illumination  in  front  of  the 
+<observation type="cultural"> In  the  evening  there  was  an  illumination  in  front  of  the 
 house,  and  after  dinner  we  went  to  the  theatre,  where  the 
 air  was  excessively  hot.  The  theatre  is  small,  and  the 
 crowded  state  of  the  audience  was  wonderful.  The  house 
@@ -1434,61 +1434,41 @@ for  us  to  go  from  the  pit  of  the  theatre  to  an  upper
 chamber  b}^  the  side  thereof,  and  to  become  somewhat 
 refreshed  from  the  heat,  when  we  returned.  Had  it  not 
 been  for  the  heat,  the  sight  would  have  been  something 
-worth  witnessing. 
+worth  witnessing. </observation>
 
-Thursday,  17th  {<date>15th May</date>). — This  is  the  day  of  the 
+    <date>Thursday,  17th  {15th May)</date>. — <observation type="cultural">This  is  the  day  of  the 
 festival  of  the  nativity  of  His  Holiness  the  Seal  of  the 
 Prophets  {i.e.,  of  Muhammad  ;  whom  \\;e  vulgarly  call 
 Mahomet),  upon  whom,  and  upon  whose  household  be 
-salutations  and  benedictions.  And  to-day  we  have  to 
-start  by  water  for  Tsaritsin,  from  whence  we  shall  pro- 
+salutations  and  benedictions.</observation>  And  to-day  we  have  to 
+start  by  water  for <loc type="city"> Tsaritsin</loc>,  from  whence  we  shall  pro- 
 ceed by  railway. 
 
 Early  in  the  morning  we  breakfasted,  and  then  went  to 
 the  state  saloon  to  hold  a  levee,  to  which  all  the  nobles 
 <page>29</page>
 and  notaUes  of  HajjT-Tarldian,  and  all  the  officers  of  the 
-
 regular  and  irregular  foi;ces  in  garrison  there,  came  and 
-
-were  presented.     The  levee  over,  we  mounted  a  carriage 
-
+were  presented.   <observation type="religious">  The  levee  over,  we  mounted  a  carriage 
 and  drove  to  the  mosque  belonging  to  the  Muslims  of  the <ethn type="Religious Sect">Shi'a  sect</ethn>
-
 ,  the  Precentor  of  which  is  MuUa  Muhammad- 
-
 Husayn,    of   Tabriz, — a   very   agreeable    man.      Again, 
-
 to-day,  through  whichever  street  we  passed,  the  people 
-
 ran  by  the  side  of  our  carriage  shouting  hurrahs.     Bain 
-
 had  fallen  in  the  night,  and  had  laid  the  dust  of  the 
-
 streets.    The  mosque  is  in  the  form  of  an  upper  chamber, 
-
 reached  by  a  wooden  staircase.     Arrived  there,  we  found 
-
 a   great   concourse   present,   of  merchants    and   others, 
-
 subjects  of  Persia,  all  being  of  the  <ethn type="Religious Sect">Shi'a  sect</ethn>.    They  were 
-
 received  in   audience.     The  princes   of  our   suite    were 
-
 there  also.     We  there  acquitted  ourselves  of  our  noon 
-
 and   afternoon   service    of  Divine    worship.      After   the 
-
 seiTice,  Mulla  Muhammad-Husayn,  the  Precentor,  recited 
-
 a    glorious    Khutha    (discourse,    sermon  ;    vide    Lane's 
 
 *  Modern  Egyptians,'  p.  85,  1.  26)  in  the  Arabian  tongue ; 
-
 following  upon  which,  a  certain  Mulla  Alimad,  of  Rasht, 
-
 a  Licentiate  of  Law  and  Theology,  recited  some  Persian 
-
 verses  of  his  own  composition. 
 
 From  thence  I  went  to  the  mosque  of  the  <ethn type="tribe">Tatars</ethn>, 
@@ -1498,27 +1478,27 @@ handsome  form  and  features  met  my  sight,  who  offered
 prayers  for  me.  One  of  their  Doctors  ascended  a  pulpit, 
 and  recited  a  Khutba  ;  he  also  presented  me  with  a  copy 
 of  the  Qur'an  {vulgarly  Jmoiun  as  the  Koran).  The  build- 
-ing of  this  mosque  is  similar  to  that  of  the  Shi'a  sect. 
+ing of  this  mosque  is  similar  to  that  of  the  Shi'a  sect. </observation>
 <page>30</page>
 Next  I  proceeded  to  an  establishment  where  are  pre- 
-served various  relies  of  Peter, the  Great,  Emperor  of 
-Russia.  I  saw  there  two  large  boats  built  by  Peter  the 
+served various  relics  of <person role="historical"> Peter, the  Great,  Emperor  of 
+  Russia.</person> <observation type="cultural"> I  saw  there  two  large  boats  built  by  Peter  the 
 Great  with  his  own  hands,  and  more  especially  one  of 
 them  that  is  ornamented  with  verj^  fine  carvings.  There, 
-too,- are  portraits  of  Peter  and  Catherine.  An  immense 
+too,- are  portraits  of  Peter  and <person role="historical"> Catherine.</person>  An  immense 
 glass  tumbler  was  also  shown,  out  of  which  it  is  well 
 known  that  Peter  the  Great  drank  wine  with  Prince 
 Menschikoff,  ancestor  of  the  very  Prince  Menschikoff 
 who  is  in  attendance  on  us.  There  was  also  a  large 
 chair  presented  by  Catherine  to  the  Governor  of  Hajji- 
-Tarkhan  of  her  day :  and  further,  a  law  book  {query, 
+Tarkhan  of  her  day :  and  further, <cult exchange="diplomatic">  a  law  book  {query, 
 chai-ter),  which  Catherine  sent  for  the  inhabitants  of 
-Hajji-Tarkhan.  Again,  there  were  the  carpenter's  tools 
+Hajji-Tarkhan.</cult>  Again,  there  were  the  carpenter's  tools 
 of  Peter — his  saw,  chisel,  axe,  &amp;c.,  with  which  he  built 
 vessels.  On  the  walls  were  certain  ancient  weapons  and 
 warlike  instruments  suspended,  such  as  fire-arms,  &amp;c. ; 
 and  outside  the  door,  on  either  side,  a  pair  of  old  bomb- 
-shells.    These  are  not  devoid  of  some  interest. 
+shells.    These  are  not  devoid  of  some  interest. </observation>
 
 I  now  got  into  my  carnage  and  drove  to  the  steam- 
 boat named  the  "Alexander,'*  belonging  to  "the  Com- 
@@ -1531,7 +1511,7 @@ noticed  several  vessels  on  their  voyage  from  <loc type="city">Tsaritsin</
 Hajji-Tarkhan,  and  with  a  numerous  company  of  mixed 
 passengers  on  board. 
 
-The  <place type="river">Volga</place>,  as  before  mentioned,  is  like  a  sea ; 
+<observation type="environmental"> The  <place type="river">Volga</place>,  as  before  mentioned,  is  like  a  sea ; 
 <page>31</page>
 i.e.,  in  some  parts  is  so  wide  that  the  banks  cannot  be 
 seen.  Large  islands  are  embraced  in  its  channel ;  exten-^ 
@@ -1544,17 +1524,17 @@ aspect.  Herds  of  swine,  piebald  and  black,  w^ere  pas-
 turing on  shore.  The  flesh  of  these  animals  is  eaten  by 
 the  inhabitants  of  the  countries  bordering  on  the  river. 
 No  other  river  of  equal  magnitude  and  with  equally  beau-^ 
-tiful  sites  on  its  banks  was  seen  by  us  in  those  parts.  I 
+tiful  sites  on  its  banks  was  seen  by  us  in  those  parts. </observation> I 
 could  not  for  one  moment  cease  to  admire  them.  The 
 vessel  never  stopped.  At  nightfall  we  dined,  and  subse- 
 quently retired  to  rest. 
 
-Friday,  ISth  {<date>16th May</date>).  —  When  I  arose  in  the 
+    <date>Friday,  ISth  {16th May)</date>.  —  When  I  arose  in  the 
 morning  it  was  evident  that  it  had  rained  heavily  all 
 night.  The  river  banks  are  like  those  seen  yesterday, 
 but  the  number  of  villages  is  less.  A  telegraph  from  the 
 Dabiru-'l-Mulk  was  received  and  read  :  "  On  the  16th  of 
-this  month  (Wednesday,  <date>14th May</date>,)  a  typhoon  of  furious 
+this  month <date>(Wednesday,  14th May</date>,)  a  typhoon  of  furious 
 wind  occurred  in  <loc type="city">Tehran</loc>.  The  inhabitants  of  <loc type="city">Tehran</loc> 
 were  in  a  state  of  alarm  lest  this  typhoon  should  have 
 assailed  us  at  sea."  At  three  hours  and  a  quarter  to 
@@ -1575,14 +1555,14 @@ then  came  out  of  the  ship's  cabin.  The  Governor  of
 <loc type="city">Saratov</loc>,  within  whose  jurisdiction  the  town  of  <loc type="city">Tsaritsin</loc>  is 
 situated,  was  presented.  His  name  was  Gavkin  Varafski. 
 He  was  a  noble,  pleasant-faced  man,  and  had  come  a  great 
-distance.  The  Chief  of  the  Nobles  of  Saratov,  &amp;c.,  and 
+distance. <gathering type="political"> The  Chief  of  the  Nobles  of  Saratov,  &amp;c.,  and 
 many  officers  of  all  kinds,  were  assembled  and  were  pre- 
 sented. There  was  also  an  excellent  band.  The  landing- 
 place  was  beautifully  decorated,  and  the  Persian  flag 
 hoisted  over  a  triumphal  arch.  After  giving  audience  to 
 these  who  had  thus  come  to  receive  us,  we  returned  to 
 the  ship's  cabin,  performed  our  devotions  of  sunset,  and 
-dined,  proceeding  to  the  railway  one  hour  afterwards. 
+dined,  proceeding  to  the  railway  one  hour  afterwards. </gathering>
 The  Governor  of  Hajji-Tarkhan  here  took  leave  and 
 returned. 
 
@@ -1597,10 +1577,10 @@ They  all  communicated  with  one  another,  so  that  one
 could  go  and  come  from  end  to  end  of  the  train.  Those 
 of  our  suite  who  accompanied  us  on  board  the  "  Constan- 
 tine  "  were  placed  in  the  same  saloon  with  ourselves  ;  our 
-<page>33</page>
-princes  and  the  rest  following  in  a  separate  train.  This 
+<page>33</page> 
+princes  and  the  rest  following  in  a  separate  train. <observation type="industrial"> This 
 is  the  first  time  we  travel  on  a  railway,  and  very  nice  and 
-comfortable  it  is  :  it  goes  five  leagues  in  an  hour. 
+comfortable  it  is  :  it  goes  five  leagues  in  an  hour. </observation>
 
 Eisiag  in  the  morning  (17th" May)  it  became  evident 
 that  during  the  night  we  had  been  passing  through  a 
@@ -1621,8 +1601,8 @@ where  the  passengers  take  coffee  and  refreshments ;  so
 that  it  really  is  a  post-house.  These  stations  are  prettily 
 built ;  and  at  each  of  them  there  are  always  several  car- 
 riages for  the  conveyance  of  passengers  and  inerchandize. 
-To-day  we  are  passing  through  the  government  of  Tam- 
-bov; and  at  one  of  the  stations  we  alighted  from  our 
+To-day  we  are  passing  through  the  government  of <loc type="city"> Tambov</loc>; 
+    and  at  one  of  the  stations  we  alighted  from  our 
 carriage,,  and  found  a  concourse  of  officers,  troops, 
 women,  and  men  assemblecJT  We  walked  down  in  front 
 of  the  line  and  inspected  the  troops,  who  were  all  fine 
@@ -1652,7 +1632,7 @@ shortly  proceeded  on  our  journey.  In  less  than  every
 half  hour  we  passed  by  a  very  large  village.  The  night 
 found  us  still  continuing  our  onward  course.  Early  in 
 the  morning  (of  May  the  18th)  we  traversed  a  long 
-bridge  over  a  river  (the  Oka)  that  falls  into  the  Volga, 
+bridge  over  a <place type="river"> river  (the  Oka)  that  falls  into  the  Volga,</place> 
 having  passed  <loc type="city">Eiazan</loc>  about  midnight ;  and  two  hours 
 after  daylight  we  reached  the  station  of  <loc type="city">Faustovo</loc>,  where 
 our  train  was  made  to  wait  until  the  other,  with  our 
@@ -1662,10 +1642,10 @@ Dolgoruki,  the  Governor  of  <loc type="city">Moscow</loc>,  an  old  and  ven
 rable man,  full  of  honours  and  dignities,  had  come  here 
 to  meet  us,  and  was  admitted   to  an  audience  in  our 
 <page>35</page>
-carriage.  M.  Gamasoif,  the  interpreter  of  His  Most 
+carriage. <person role="diplomatic"> M.  Gamasoif,  the  interpreter  of  His  Most 
 Exalted  Majesty  the  Emperor,  was  also  introduced  to 
 our  presence,  having  been  sent  by  the  Emperor.  He  is 
-a  very  old  man,  and  has  visited  Persia. 
+a  very  old  man,  and  has  visited  Persia.</person> 
 
 We  now  proceeded  till  the  city  of  <loc type="city">Moscow</loc>  appeared  in 
 sight.  The  cupolas  of  its  churches — all  gilded,  the 
@@ -1753,14 +1733,15 @@ all  the  streets.  Arrived  at  the  theatre  we  went  upstairs,
 passed  the  crush-room,  and  took  our  seat  in  a  box 
 fronting  the  stage, — the  place  where  the  acting  is  per- 
 formed. The  theatre  is  of  large  size,  and  was  built  by 
-the  Emperor  Nicholas.  It  has  six  tiers  of  seats,  and  all 
+the <person role="sovereign"> Emperor  Nicholas</person>.  It  has  six  tiers  of  seats,  and  all 
 of  them  were  crowded  with  women  and  men.  A  large 
-chandeHer  is  hung  in  the  middle  of  the  theatre.  Prince 
-Dolgoruki,  the  Governor  of  Moscow,  sat  in  our  box. 
+chandeHer  is  hung  in  the  middle  of  the  theatre. <person role="sovereign"> Prince 
+  Dolgoruki,  the  Governor  of  Moscow, </person> sat  in  our  box. 
 The  curtain  rose,  and  a  strange  world  made  its  appear- 
 ance.    A  large  number  of  dancing- women  set-to  dancing. 
 <page>38</page>
-This  dancing  and  performance  is  called  a  ballet,  i.e.,  a 
+ 
+<observation type="cultural"> This  dancing  and  performance  is  called  a  ballet,  i.e.,  a 
 performance  and  dance  without  speaking.  In  its  course 
 they  both  dance  and  perform  in  various  ways,  which  it  is 
 not  possible  to  describe.  Opposite  the  audience  and 
@@ -1774,7 +1755,7 @@ as  danced  well  were  applauded  by  the  audience  clapping
 their  hands,  and  crying  "bis,"  i.e.,  "encore."  At  the 
 conclusion  of  one  act  the  curtain  fell ;  and  after  a  quarter 
 of  an  hour,  when  people  had  reposed  somewhat,  the 
-curtain  again  rose  and  another  act  was  performed.  At 
+curtain  again  rose  and  another  act  was  performed. </observation> At 
 the  end  of  one  act,  I  went  to  another  box  near  to,  and 
 looking  on  to,  the  stage.  Our  princes  and  attendants 
 were  seated  in  our  first  box.  Five  times  did  the  curtain 
@@ -1783,8 +1764,8 @@ out.  It  lasted  till  midnight.  The  theatre  was  extremely
 hot.  We  went  home.  The  name  of  the  director  of  the 
 theatre  was  Gavelin. 
 
-Tuesday,  %^nd,  (<date>20th May</date>). — ^We  remained  at  <loc type="city">Moscow</loc>. 
-This  day  we  visited  the  lower  apartments  of  the  Kremlin, 
+<date>Tuesday,  %^nd,  (20th May</date>). — ^We  remained  at  <loc type="city">Moscow</loc>. 
+<cult exchange="objects"> This  day  we  visited  the  lower  apartments  of  the  Kremlin, 
 where  the  jewelled  regalia,  ancient  crowns  of  the  Empe- 
 rors, &amp;c.,  are  collected;  and  these  we  inspected.  It  is  a 
 magnificent  edifice,  apartment  within  apartment,  being 
@@ -1799,7 +1780,7 @@ things  taken  from  Charles  XII.  of  Sweden  by  Peter  the
 Great  at  the  battle  of  Pultawa ;  especially  the  litter  on 
 which  Charles,  after  being  wounded,  caused  himself  to  be 
 carried  about  as  he  gave  directions  for  continuing  the 
-fight ;  also  some  of  the  flags  of  that  king.  There  were 
+fight ;  also  some  of  the  flags  of  that  king.</cult>  There  were 
 about  ten  crowns, — crowns  of  the  old  sovereigns  down 
 to  the  time  of  Peter  the  Great,  most  of  them  set  with 
 fine  precious  stones  in  gold  of  old-fashioned  work- 
@@ -1807,29 +1788,29 @@ manship :  there  were  jewelled  sceptres,  and  one  without
 jewels  that  had  been  used  by  Peter  the  Great ;  there 
 were  old  royal  robes  and  dresses,  and  others  more 
 recent ;  also  the  furniture  of  the  chamber  of  Alexander  I. 
-and  of  that  of  Peter  the  Great.  I  saw  two  thrones  set 
+and  of  that  of  Peter  the  Great. <cult exchange="objects">I  saw  two  thrones  set 
 with  turquoises  and  gold  and  other  precious  stones, 
 which  had  been  sent  as  presents  to  the  sovereigns  of 
-Russia  by  Shah  'Abbas,  the  Safawl  (i.^.,  of  the  race 
-of  the  Shaykh  SafT  or  Safiyyu-'d-DTn,  who  lived  in 
+Russia  by <person role="historic"> Shah  'Abbas,  the  Safawi  <ethn type="Religious sect"> (of  the  race 
+of  the  Shaykh  Safi  or  Safiyyu-'d-Din, </ethn> who  lived  in 
 the  days  of  Timurleng,  and  whose  descendant  in  the 
-sixth  degree,  his  great-great-great-great  grandson,  Shah 
+sixth  degree,  his  great-great-great-great  grandson, <person role="historical">Shah 
 Isma'll,  founded  the  Safawi  dynasty  of  Persia  in  a.d. 
-1501 ;  the  title  of  Sofi,  or  Sophi,  attributed  to  the 
+1501 </person>; </person> the  title  of  Sofi,  or  Sophi,  attributed  to  the 
 kings  of  this  dynasty  by  <ethn type="continental">European  writers,  <observation type="cultural">being  an 
-ignorant  corruption  of  thts  word  Safawl)</observation> </ethn>.  I  also  saw 
+ignorant  corruption  of  thts  word  Safawi)</observation> </ethn>. </cult> <cult exchange="objects"> I  also  saw 
 two  saddles,  with  their  equipments,  jewelled,  sent  by 
 the  Ottoman  Sultan  (*Abdu-'l-)  Hamid  Khan  to  the 
 Empress  Catherine  ;  also  the  boots  of  Peter  the  Great 
 and  of  Alexander  I. ;  and  furthermore,  a  colossal  marble 
 <page>40</page>
 statue  of  Napoleon  I.  There  were  also  some  ancient 
-carriages. 
+carriages. </cult>
 
-From  thence  I  went  to  visit  the  Lazarof  College,  a 
+<cult exchange="language"> From  thence  I  went  to  visit  the <institutions type="educational"> Lazarof  College</institutions>,  a 
 beautiful  place  of  education,  <observation type="cultural">where  Armenian,  Muham- 
-madan,  and  Russian  youths  are  taught  the  Oriental  and 
-European  languages</observation>.  The  name  of  the  superior  was 
+madan,  and  Russian  youths  are  taught  the Oriental  and 
+European  languages</observation>.</cult>  The  name  of  the  superior  was 
 Delianof.  Keturning  from  the  college,  the  generals  and 
 military  officers  stationed  at  <loc type="city">Moscow</loc>  were  received  in 
 audience.  The  General  commanding-in-chief  the  whole  of 
@@ -1839,7 +1820,7 @@ acting.  From  thence  to  the  house  of  Prince  Dolgoruki,
 to  a  ball.  As  his  wife  was  dead,  his  niece,  daughter  of 
 his  sister,  did  the  honours  of  the  evening. 
 
-23r6Z  {Wednesday f  <date>21st May</date>). — In  the  morning  I 
+    <date>23r6Z  {Wednesday f  21st May).</date> — In  the  morning  I 
 mounted  a  carriage  and  for  a  space  drove  about  the 
 streets  of  Moscow.  The  companies  of  the  fire-brigade 
 went  through  a  portion  of  their  exercise  ;  <observation type="cultural">and  afterwards 
@@ -1847,8 +1828,8 @@ went  through  a  portion  of  their  exercise  ;  <observation type="cultural">
 which  they  have  collected  wax  images  of  all  the  different 
 tribes  and  nationalities  subject  to  Russia,  each  dressed  in 
 its  special  local  costume,  so  as  to  look  like  living  men.</observation> 
-<observation type="cultural">There  I  also  saw  the  arms  and  implements  of  the  savages 
-  of  America  and  Africa,  which  are  exhibited  as  curiosities.</observation> 
+<observation type="cultural"> <cult exchange="objects"> There  I  also  saw  the  arms  and  implements  of  the  savages 
+    of  America  and  Africa,  which  are  exhibited  as  curiosities.</cult></observation> 
 There  is  also  a  library  said  to  contain  two  hundred 
 thousand  volumes.  Whenever  the  Emperor  visits  Moscow, 
 he  resides  in  the  apartments  on  the  ground-floor  of  the 
@@ -1860,8 +1841,8 @@ marble,  the  tables,  chairs,  looking-glasses,  and  couches.
 In  the  Emperor's  own  room  there  were  the  skins  of  two 
 bears  shot  by  himself  and  serving  as  rugs  in  front  of 
 couches.  Having  finished  this  survey,  I  drove  to  the 
-Nicholas  terminus,  the  end  of  the  railway  to  <loc type="city">St</loc>.  <loc type="city">Peters</loc>- 
-burg ;  as,  under  God's  will,  we  go  to-night  to  that  city. 
+Nicholas  terminus,  the  end  of  the  railway  to  <loc type="city">St Peters- 
+burg </loc>;  as,  under  God's  will,  we  go  to-night  to  that  city. 
 The  streets  were  illuminated  all  the  way  from  the 
 Kremlin  to  the  terminus,  and  vast  crowds  of  citizens 
 lined  the  road  and  showered  upon  me  the  extremest 
@@ -1873,12 +1854,12 @@ ferred upon  the  Governor  of  Moscow.  Our  princes  were
 put  into  my  own  carriage,  in  which  I  dined  and  then  lay 
 down  to  sleep. 
 
-24^/i  {Thursday,  2^nd  May). — Awaking  in  the  morning, 
+    <date>24^/i  {Thursday,  2^nd  May).</date> — Awaking  in  the  morning, 
 I  saw  that  both  sides  of  our  road  was  a  forest  of  firs.  We 
 crossed  two  iron  bridges  of  great  length,  carried  over  two 
 wide  valleys,  of  which  the  one  was  waterless,  the  other 
 possessing  a  stream.  After  a  while  the  road  passed  over 
-a  large  river  named  the  Wok,  which  is  spanned  by  a  very 
+a  large  river  named  the <place type="river">Wok,</place>   which  is  spanned  by  a  very 
 long  iron  bridge  that  carries  the  railway  over.  This 
 river  forms  numerous  backwaters,  among  which  are  large 
 numbers  of  villages.  We  proceeded  until  we  came  to 
@@ -1889,9 +1870,9 @@ Gorchakof,  and  an  elderly  person,  but  very  shrewd,  able,
 and  diplomatic</observation>.  We  had  a  little  conversation,  and  then, 
 re-entering   our    carriage,   we    continued    our    journey. 
 <page>42</page>
-Nearing  <loc type="city">St</loc>.  <loc type="city">Petersburg</loc>,  we  put  on  our  state  costume, 
+Nearing  <loc type="city">St Petersburg</loc>,  we  put  on  our  state  costume, 
 ready  for  our  arrival.  When  the  train  stopped  at  the 
-terminus.  His  Most  Exalted  Majesty  the  Emperor,  with 
+terminus. <gathering type="political"> His  Most  Exalted  Majesty  the  Emperor,  with 
 the  Nawwab  ^  the  Heir- Apparent,  and  his  other  sons,  as 
 also  the  whole  of  the  princes  of  the  Imperial  House,  the 
 Commanders-in-Chief,  and  Generals  of  the  army,  were 
@@ -1901,9 +1882,9 @@ the  perfection  of  warmth  and  friendship.  The  Nawwab
 the  Grand  Duke  Nicholas,  Commander-in-Chief  of  all  the 
 Russian  forces  and  brother  of  His  Most  Exalted  Majesty 
 the  Emperor,  handed  in  a  state  of  the  forces  stationed  at 
-(<loc type="city">St</loc>.)  <loc type="city">Peter</loc> (sburg).  The  Nawwab  the  Grand  Duke  Con- 
+(<loc type="city">St. Petersburg).</loc>  The  Nawwab  the  Grand  Duke  Con- 
 stantine  Nicholaievich,  another  brother  of  His  Most 
-Exalted  Majesty  the  Emperor,  was  also  present.  In  short, 
+Exalted  Majesty  the  Emperor,  was  also  present.</gathering>  In  short, 
 giving  our  hand  into  the  hand  of  the  Emperor,  we  walked 
 forward  on  foot.  Very  many  of&amp;c.als  in  uniform  lined  the 
 passage,  and  we  thus  reached  the  head  of  the  street  known 
